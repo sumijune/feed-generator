@@ -21,11 +21,11 @@ const run = async () => {
 
   // A display name for your feed
   // Ex: What's Hot
-  const displayName = ''
+  const displayName = 'Shingeki no Kyojin'
 
   // (Optional) A description of your feed
   // Ex: Top trending content from the whole network
-  const description = ''
+  const description = 'SnK related posts. Tag your post with #aot to feed it here.'
 
   // (Optional) The path to an image to be used as your feed's avatar
   // Ex: ~/path/to/avatar.jpeg
